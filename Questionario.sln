@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionario.Desk", "Questionario.Desk\Questionario.Desk.csproj", "{91B9B213-98DD-4937-BCAD-F45D43DC195F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B9B213-98DD-4937-BCAD-F45D43DC195F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B9B213-98DD-4937-BCAD-F45D43DC195F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B9B213-98DD-4937-BCAD-F45D43DC195F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B9B213-98DD-4937-BCAD-F45D43DC195F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D807149A-03E5-4E36-8CFA-582310A52D2E}
+	EndGlobalSection
+EndGlobal
